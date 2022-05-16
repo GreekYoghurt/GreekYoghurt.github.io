@@ -1,0 +1,35 @@
+body{
+    background-color: #000036;
+      text-align: center;
+  }
+  
+  .title {
+    display: flex;
+    border: white solid 3px;
+    padding: 10px;
+    background: rgb(92,90,47);
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-left: 15%;
+  }
+  
+  .title h1 {
+    display: flex;
+    justify-content: start;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  h2 {
+    color: rgb(162,150,57);
+  }
+   
+  h3{
+    color: white; 
+    padding-right: 15%;
+    padding-left: 15%;
+  }
+  
