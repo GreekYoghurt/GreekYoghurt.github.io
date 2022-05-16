@@ -34,6 +34,6 @@ body{
   }
   
 img {
-  width: 50%;
-  margin-top: 1%;
+  width: 50% !important;
+  margin-top: 1% !important;
 }
